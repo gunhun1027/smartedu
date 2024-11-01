@@ -1,5 +1,6 @@
 # smartedu
 
+[English](README-en.md) | 官话 - 简体中文 | [官話 - 正體中文](README-cmn_TW.md) | [廣東話](README-jyut.md)  
 👋 介绍
 Important
 

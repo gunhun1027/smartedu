@@ -28,4 +28,4 @@
 
 smartedu 是一个用于 国家中小学智慧教育云平台 的教材下载的浏览器插件，旨在通过下载教材来提升用户体验。设计灵感来自于 YouTube、Vision OS 和 iOS，从而实现了能下载教材和用户友好性的界面。
 
-该项目使用 [vitesse-webext](https://github.com/antfu/vitesse-webext) 模板进行开发。如果没有这个模板，可能无法开发出这个项目。
+
